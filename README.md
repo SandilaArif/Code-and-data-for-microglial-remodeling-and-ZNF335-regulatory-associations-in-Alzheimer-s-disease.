@@ -2,7 +2,7 @@
 
 This repository package contains the code, derived source tables, figure assets, and manuscript support files for the manuscript:
 
-**Conserved lysosome-DAM program coupling nominates ZNF335 through TF-regulator integration in Alzheimer's disease microglia**
+**Microglial Lipid–Lysosomal Remodeling and ZNF335 Associations in Alzheimer’s Disease**
 
 Package generated: 2026-06-06 20:46:08
 
