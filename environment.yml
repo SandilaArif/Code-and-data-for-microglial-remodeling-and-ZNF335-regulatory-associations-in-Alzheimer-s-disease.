@@ -1,0 +1,19 @@
+name: ad-microglia-regulatory-programs
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - networkx
+  - anndata
+  - scanpy
+  - pytorch
+  - python-docx
+  - openpyxl
